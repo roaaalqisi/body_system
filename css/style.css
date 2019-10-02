@@ -1,5 +1,7 @@
-headerh1
+h1
 {
+    color:pink
+    text-align :center
     background-color: rgb(235, 82, 72); text-align:center ;
 }
 a
@@ -17,4 +19,5 @@ body
    background-color: #C8C8C8;
    background-color: rgb(255, 41, 41);}
   section
-  {color:}
+  {color:red}
+ 
