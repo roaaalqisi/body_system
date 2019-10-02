@@ -1,6 +1,6 @@
 headerh1
 {
-    background-color: rgb(138, 22, 14); text-align:center ;
+    background-color: rgb(235, 82, 72); text-align:center ;
 }
 a
 {
@@ -8,13 +8,13 @@ a
 }
 footer
 {
-    background-color: rgb(235, 204, 204);text-align:center;}
+    background-color: rgb(224, 167, 167);text-align:center;}
 li
 { 
     display:inline-block;padding: 4px; }
 body 
 {
    background-color: #C8C8C8;
-   background-color: hsl(0,0%,78%);}
+   background-color: rgb(255, 41, 41);}
   section
   {color:}
