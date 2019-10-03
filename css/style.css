@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+}
+header h1{
+    color: rgb(212, 108, 63);
+    color: aqua;
+    text-align: center;
+}
+a
+{
+    text-decoration: none
+}
+
+}
+footer
+{
+    background-color: rgb(235, 204, 204);
+    text-align:center;}
+li
+{
+     display:inline-block;padding: 4px; }
+body {
+   background-color: #C8C8C8;
+   background-color: hsl(0,0%,78%);}
+section  
+}
