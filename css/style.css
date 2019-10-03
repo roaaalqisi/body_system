@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-color: aqua;
 }
@@ -24,3 +25,28 @@ body {
    background-color: hsl(0,0%,78%);}
 section  
 }
+=======
+h1
+{
+    color:pink
+    text-align :center
+    background-color: rgb(235, 82, 72); text-align:center ;
+}
+a
+{
+    text-decoration:none;
+}
+footer
+{
+    background-color: rgb(224, 167, 167);text-align:center;}
+li
+{ 
+    display:inline-block;padding: 4px; }
+body 
+{
+   background-color: #C8C8C8;
+   background-color: rgb(255, 41, 41);}
+  section
+  {color:red}
+ 
+>>>>>>> 2fd4073b5f22bfde763a3856c0eac883a10df5ca
